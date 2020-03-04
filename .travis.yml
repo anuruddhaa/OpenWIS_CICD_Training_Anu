@@ -14,6 +14,6 @@ notifications:
     
 addons:
   sonarcloud:
-    organization: "<organization_name>"
+    organization: "OpenWIS_CICD_Training_Anu"
     token:
       secure: "kU54973l9UfLNDgatmmHCA5dQPCNCv9BsJpTwKsDjlgUhaLTLWrelOU6rOWGduzTckwqUeJU5w+KOlLED/cs8dcK0KYbDUTjMBlpnmV/r/d1faRfkFnBx1/m9i/6iI5EL2wupMQmSDbd9yrtJfVWfaEfXcXxHlwzG3/shEjDQu1eHbaE8SB9ZNDaoDLROO9uKB2An271KvkPJCWOuwvS8oBhcDmfm1dbT6zQ7JOZJ1/kzUh1vXDMorhPUWB8lSGwtTvVuJfyMDrsW3iJ7MBthsF6PtzezwVm/Zh9Mvb1wrkbU5J2fJmFcXAdXzMaUmEvAaf9ttWzcVdclk02EelvYOJgmmwbV98UwrX5y8BpOoyqKH9997UDNI4jIcRYT3cxclUwErjUn4rGczRe+qWeaP6geKdVpeSZYz/kebo3XfqaNQPoS7FFB2L6qOcl2wVP+Bw0UWsE6P/LPA8f3LprIpcQrQzWaHCrKL+KjwyXYhfz5vRnqdai26XGJn+P39nxwqQ3I9w31EmaszPVjrPspFKmMXmlDoHYs/Fb1WKuf+pHMa6NILCbLYkDtKcYuAXGpXf5C8abg3MaAvprAPXXiL2whvMwDFgMNum+evc+5Er0+Ek1qo6bXundgDqUcWZZPiIlGqczEqG4F/UA+fr+lL31RzGHW+h0O4nTK0L4oPg="  
