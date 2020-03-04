@@ -7,7 +7,7 @@ before_install:
 notifications:
   email:
     recipients:
-      - anuruddha.abhayasinghe@gmail.com
+      secure: "XhPinPjRGF19dLuDEe0MCaVYiICd6ZJbm2Xw5j0mBzINBUbRjEX/u8tQX/s2zPJVGERV9dH+/k9LGwOeeYHvdjgnwdtJ9zCaob/RqMLveMPWjlq6UZ15Ltq/V0rA4dXsg+BF7GtWVZjby6mTmH1sZa3f6NwloFBgEOCJDiF4y6IE7iSeUjafxfztg0K1xHoyMEq5G1XATahHcOik68nB5XwVGTuUhlZmoXjfwWvszFJUJ2YfJvc7nmByhCygv5huYGloQspPLX+7JxFFcznt+UOnm/4htkTp/4hGuCHFex5K68uopDdkfqRzBOG85/Y1MuTJPb2+69HREWpTAWsgfmon03/joTxEy7gcAl4naQhZjUAQNnuedT5bB+/dHcvC4J5Ljy70FevQLl4XT06JsS8arBdwDmhctsUSgONB4oaxcCs+rPWMi0yD2dvOKIvipxOvle+O2hcR7V8IKKx6sQNL7uhLTn1fVwwGgIKl0QGij28W1okEDEwPNXHbYzAmiusBnf9l7VmJn2Som+dAw2JAD9zcPq7hY/14Tiv3m9CuXaS0jwSrWRoiKdCeMEfkVtsHdSGFDaWcJROiqkVnG5DCGvwDrFhHcPQglTZ4PbU8ZaeOnhIGcOKZMCmfoXuVeNxddRFrqJnKdeELQ1jkqNzSahlTElTS6w3eAskrmW8="
     on_success: always
     on_failure: always
     
